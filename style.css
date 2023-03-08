@@ -2,7 +2,7 @@
     width: 734px;
     display: block;
     margin: 0 auto;
-    height: 1280px;
+    height: 1290px;
     padding: 10px 15px;
     border: 1px solid #dde2ec;
     border-radius: 10px;
@@ -81,6 +81,7 @@
 .tex {
     border-radius: 5px;
     border-color:#dde2ec;
+    marsgin-top: 15px;
 }
 
 .check {
